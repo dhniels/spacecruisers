@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: cruisers.space
+Token: f9c710108220a4b83f646a7b0db9299f74d2caf4785acc4f2d666817b5368412
