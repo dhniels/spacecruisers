@@ -36,29 +36,29 @@ Removal of what Toyota calls the &#8220;instrument cluster finish panel&#8221; a
 
 First remove the brake fluid reservoir cap. It makes removing the panel much easier. There are five screws that hold the panel in, as well as two internal clips that fit onto brackets behind the cluster:
 
-![Screw located below brake reservoir](/img/uploads/dash-reservoir3.jpg)
+![Screw located below brake reservoir](/images/uploads/dash-reservoir3.jpg)
 
-![Screw located above rear wiper switch](/img/uploads/dash-toggles.jpg)
+![Screw located above rear wiper switch](/images/uploads/dash-toggles.jpg)
 
-![Screw located above dash light dimmer knob](/img/uploads/dash-toggles2.jpg)
+![Screw located above dash light dimmer knob](/images/uploads/dash-toggles2.jpg)
 
-![Screws located above instrument cluster window](/img/uploads/dash-cluster.jpg)
+![Screws located above instrument cluster window](/images/uploads/dash-cluster.jpg)
 
 To remove the panel, pull it out toward the steering wheel as you maneuver it around the brake fluid reservoir opening (there is enough flex in the panel&#8217;s side for that). Pull gently because the panel is still attached by two clips to the brackets seen in the black boxes below:
 
-![Screws located around instrument cluster](/img/uploads/dash-cluster2.jpg)
+![Screws located around instrument cluster](/images/uploads/dash-cluster2.jpg)
 
 The Combination Meter is attached in the front by four screws seen in the image above, and in the rear by the speedometer cable and three electrical plug connections, seen here:
 
-![Speedometer cable that attaches to backside of cluster](/img/uploads/dash-cluster-cable.jpg)
+![Speedometer cable that attaches to backside of cluster](/images/uploads/dash-cluster-cable.jpg)
 
 Once the instrument cluster&#8217;s front screws are removed, pull the cluster out as far as you can before you feel resistance. First, disconnect the speedometer cable by squeezing the side of the connector and pulling the cable away; it is helpful to look through the windshield from the front of the van to get your bearings. The speedo cable connector comes off easily, but be gentle &#8211; if it breaks you&#8217;re a little busted. The plastic clip on my speedometer cable was broken so it detached very easily. If yours is this way _make sure_ you snugly push it back in during reassembly otherwise your speedo won&#8217;t work and you&#8217;ll have to do this all over again (ask me how I know&#8230;)
 
-![Speedometer cable release lever](/img/uploads/dash-cluster-cable2.jpg)
+![Speedometer cable release lever](/images/uploads/dash-cluster-cable2.jpg)
 
 You now have room to pull the meter out farther and disconnect the remaining electrical connectors. Each has a plastic tab that you push in and then pull the connector out.
 
-![Instrument cluster electrical harnesses](/img/uploads/dash-cluster-harness.jpg)
+![Instrument cluster electrical harnesses](/images/uploads/dash-cluster-harness.jpg)
 
 ## Remove the Glove Box
 
@@ -66,59 +66,59 @@ Removal of the &#8220;glove compartment assembly&#8221; will open up the area ar
 
 First remove the plastic piece covering the glove box hinges, if it is still there (two screws):
 
-![Screws located below glove box over hinges](/img/uploads/dash-glovebox-pad.jpg)
+![Screws located below glove box over hinges](/images/uploads/dash-glovebox-pad.jpg)
 
 Next remove two screws connecting the glove box hinges and remove the glove box:
 
-![Screws located along glove box hinges](/img/uploads/dash-glovebox-hinges.jpg)
+![Screws located along glove box hinges](/images/uploads/dash-glovebox-hinges.jpg)
 
 **If you plan on removing the upper safety pad and/or the main dash, follow the remaining steps in this section. If not, you can stop here.**
 
 Remove the glove box striker. It is held on by two screws, and can be moved forward or back to adjust the exact point at which the glove box latches. You may wish to mark the position of the striker before you remove it, otherwise you will have to adjust it upon reinstallation. I found readjusting it was easy so i didnt bother with marking it.
 
-![Screws located on glove box striker](/img/uploads/dash-glovebox-striker.jpg)
+![Screws located on glove box striker](/images/uploads/dash-glovebox-striker.jpg)
 
 Remove two screws (main dash to upper safety pad):
 
-![Screws located on upper glovebox trim](/img/uploads/dash-glovebox-upper.jpg)
+![Screws located on upper glovebox trim](/images/uploads/dash-glovebox-upper.jpg)
 
 Next remove the reinforcement bar that the glove box hinges screw into. The bar is attached with two screws and two 10mm bolts:
 
-![Screws located on glove box reinforcement bar, left](/img/uploads/dash-glovebox-bar.jpg)
+![Screws located on glove box reinforcement bar, left](/images/uploads/dash-glovebox-bar.jpg)
 
-![Screws located on glove box reinforcement bar, right](/img/uploads/dash-glovebox-bar2.jpg)
+![Screws located on glove box reinforcement bar, right](/images/uploads/dash-glovebox-bar2.jpg)
 
 Here is one of the metal retaining clips that the 10mm bolts thread into (this piece snaps onto the dash, and like other clips, may or may not stay there &#8211; keep track of them):
 
-![Retaining clip located on dash](/img/uploads/dash-glovebox-retainer.jpg)
+![Retaining clip located on dash](/images/uploads/dash-glovebox-retainer.jpg)
 
 ## Remove the Stereo and Heater Trim Panels
 
 Removal of what Toyota calls the &#8220;instrument cluster central finish panel&#8221; (the center panel surrounding the stereo and climate controls) will reveal the stereo, more switches, and the heater control panel.
 
-![Screws located above climate controls](/img/uploads/dash-controls2.jpg)
+![Screws located above climate controls](/images/uploads/dash-controls2.jpg)
 
 Next, remove these two screws (radio trim to ashtray retainer):
 
-![Screws located on ash tray](/img/uploads/dash-ashtray.jpg)
+![Screws located on ash tray](/images/uploads/dash-ashtray.jpg)
 
 The radio trim panel is still attached by two clips at the bottom corners. Pull out the panel gently as the plastic pieces that the clips snap onto are ultra-fragile&#8230;here&#8217;s a shot of one of the clips from the backside:
 
-![Retaining clip located along stereo trim](/img/uploads/dash-cig3.jpg)
+![Retaining clip located along stereo trim](/images/uploads/dash-cig3.jpg)
 
 At this point the radio trim panel is only attached by the electrical connector to the cigarette lighter, if you have one. There may or may not be an additional wire running from the roof of the ashtray retainer into the cigarette lighter, if there is, unplug it at the cigarette lighter assembly end.
 
-![Harness connecting the 12VDC cigarette lighter power outlet](/img/uploads/dash-cig.jpg)
+![Harness connecting the 12VDC cigarette lighter power outlet](/images/uploads/dash-cig.jpg)
 
-![Stereo radio trim piece removed](/img/uploads/dash-cig2.jpg)
+![Stereo radio trim piece removed](/images/uploads/dash-cig2.jpg)
 
 Next remove four screws around the radio:
 
-![Screw located below brake reservoir](/img/uploads/dash-radio.jpg)
+![Screw located below brake reservoir](/images/uploads/dash-radio.jpg)
 
 To remove the heater control panel from the dash, remove these three screws:
 
-![Screws located around climate controls](/img/uploads/dash-controls.jpg)
+![Screws located around climate controls](/images/uploads/dash-controls.jpg)
 
 ## Remove the Lower Panel and Steering Column Cover
 
@@ -126,59 +126,59 @@ Removal of the Toyota named &#8220;instrument panel lower finish panel&#8221; an
 
 In order to remove the entire dash, the lower panel must be removed. This is the panel covering the lower portion of the steering column. It is attached with four screws&#8230;here is a shot of the driver&#8217;s side of the panel showing only the driver&#8217;s side screw, the second is on the other side:
 
-![Screw located on steering column, left](/img/uploads/dash-steering-column2.jpg)
+![Screw located on steering column, left](/images/uploads/dash-steering-column2.jpg)
 
 Lower two screws:
 
-![Screws located on steering column, bottom](/img/uploads/dash-steering-column3.jpg)
+![Screws located on steering column, bottom](/images/uploads/dash-steering-column3.jpg)
 
 Although not necessary for dash removal, here are the screw locations for the steering column housing (a place to be careful: these screws thread directly into plastic, so take care when reinstalling):
 
-![Diagram of screw locations on steering column trim piece](/img/uploads/dash-steering-column.jpg)
+![Diagram of screw locations on steering column trim piece](/images/uploads/dash-steering-column.jpg)
 
 ## Remove the Dash Upper Pad
 
 Toyota calls this the &#8220;instrument panel upper safety pad sub-assy&#8221; and it is one of the final pieces to remove. The part I am referring to looks like this:
 
-![Dash upper safety pad trim piece](/img/uploads/dash-pad.jpg)
+![Dash upper safety pad trim piece](/images/uploads/dash-pad.jpg)
 
 Remove this screw:
 
-![Screw located on pad right side](/img/uploads/dash-pad2.jpg)
+![Screw located on pad right side](/images/uploads/dash-pad2.jpg)
 
 Remove this screw, which is at the driver&#8217;s side end of the upper safety pad:
 
-![Screw located on pad upper](/img/uploads/dash-pad3.jpg)
+![Screw located on pad upper](/images/uploads/dash-pad3.jpg)
 
 Next remove two screws (dash to upper safety pad):
 
-![Screws located above climate controls](/img/uploads/dash-controls3.jpg)
+![Screws located above climate controls](/images/uploads/dash-controls3.jpg)
 
 At this point the safety pad is still attached to the frame by clips and by two 10mm bolts, which attach to the brackets seen here:
 
-![Screws located between pad and frame](/img/uploads/dash-pad4.jpg)
+![Screws located between pad and frame](/images/uploads/dash-pad4.jpg)
 
 Once the bolts are removed, pull the safety pad (gently!) from the frame &#8211; it is still anchored by two dodgy metal clips that attach to the metal framework at the base of the windshield. Here is a shot from underneath the pad:
 
-![Screws located around climate controls](/img/uploads/dash-pad5.jpg)
+![Screws located around climate controls](/images/uploads/dash-pad5.jpg)
 
 In order to remove the last and largest piece of the dash, first remove the electrical switch components from the dash panel.
 
 Remove one 10mm bolt below the brake fluid reservoir:
 
-![Screws located behind brake fluid reservoir](/img/uploads/dash-reservoir2.jpg)
+![Screws located behind brake fluid reservoir](/images/uploads/dash-reservoir2.jpg)
 
 Remove one 10mm bolt anchoring the dash to the bracket which attaches to the brake fluid reservoir:
 
-![Screws located above brake fluid reservoir](/img/uploads/dash-reservoir.jpg)
+![Screws located above brake fluid reservoir](/images/uploads/dash-reservoir.jpg)
 
 Remove one 10mm bolt that attaches to the very bottom of the driver&#8217;s side of the dash (this piece is almost always broken in my experience):
 
-![Screw located on drivers side bottom](/img/uploads/dash-left.jpg)
+![Screw located on drivers side bottom](/images/uploads/dash-left.jpg)
 
 Remove one 10mm bolt near the passenger side door:
 
-![Screw located on passenger side top](/img/uploads/dash-right.jpg)
+![Screw located on passenger side top](/images/uploads/dash-right.jpg)
 
 The entire dash is no longer connected to the vehicle, and can be removed. Repeat everything in reverse in order to re-install the dash.
 

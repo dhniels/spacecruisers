@@ -33,35 +33,35 @@ If you do a hardwire, you&#8217;ll also want to get a fuse tap of some kind. It 
 
 Once you have your radar detector, windshield mount, hard wire kit, and fuse taps, you can begin the installation. On mine, I started by mounting the radar detector in the location I wanted. I mounted it slightly left-of-center in order to have room for my dash cam as well.
 
-![Whistler CR90 installed on windshield](/img/uploads/accessories-radar.jpg)
+![Whistler CR90 installed on windshield](/images/uploads/accessories-radar.jpg)
 *Whistler CR90 installed with a 3M tape mount (suction cups are horrible)*
 
 The only thing I&#8217;d say is make sure you can still flip your sun visor down without the detector blocking it. if you go too high/left it will block your sun visor, and if you&#8217;re using 3M tape like me, once you stick it on the glass it&#8217;s really hard to get off without ruining the tape!
 
 Now you can start tucking the wire away in the rubber stripping that the headliner tucks into.
 
-![Running the accessory wire along the windshield](/img/uploads/accessories-radar3.jpg)
+![Running the accessory wire along the windshield](/images/uploads/accessories-radar3.jpg)
 *Hide the wiring along this rubber trim piece all the way to the right pillar*
 
 After that, I partially unscrewed the &#8220;oh shit!&#8221; handle, which allowed me to pry up the plastic trim along the pillar enough to disguise the cord on its length down and behind the dash. I ran it behind the dash and along the top of the foot well where the carpet ends.
 
-![Running the accesory wire down the pillar](/img/uploads/accessories-radar4.jpg)
+![Running the accesory wire down the pillar](/images/uploads/accessories-radar4.jpg)
 *Pop off the plastic cover and loosen the screw so you can fit the wire under this trim piece*
 
-![Running the accesory wire down the door](/img/uploads/accessories-radar5.jpg)
+![Running the accesory wire down the door](/images/uploads/accessories-radar5.jpg)
 *Conceal the wires easily along this seam*
 
-![Grounding the accesory wire on the floor](/img/uploads/accessories-radar6.jpg)
+![Grounding the accesory wire on the floor](/images/uploads/accessories-radar6.jpg)
 *Perfect ground point just under the top edge of the carpet on the passenger side</figcaption></figure>*
 
 After that, simply ground the black wire and connect the red wire to power. I tapped it into the cigarette lighter fuse since I already have a bunch of stuff like my gauges tapped into the stereo fuse. Any fuse that comes and stays on with the engine will work. Just make sure it&#8217;s not on a some odd fuse like a blinker circuit otherwise you&#8217;ll have to turn your blinkers on to turn on the detector, hehe. Heres how mine looks:
 
-![Tapping the fuse box for power](/img/uploads/accessories-radar7.jpg)
+![Tapping the fuse box for power](/images/uploads/accessories-radar7.jpg)
 *The dash cam is the single red wire running to the blue fuse. Any accessory fuse will work.*
 
 That&#8217;s all! You should be able to turn your key to accessory power now and see the detector come alive. Refer to your detector&#8217;s user manual to configure the clock and functions how you&#8217;d like (I disabled X and K bands because I get lots of false alerts and the police here only use Ka band) and you&#8217;re now off to the races. Ever heard the parable of the turtle and the hare? Here&#8217;s the finished setup with both my radar detector and dash cam installed &#8211; [Sasquatch](http://amzn.to/2iJu1ra) included:
 
-![Showing the final installed product](/img/uploads/accessories-radar8.jpg)
+![Showing the final installed product](/images/uploads/accessories-radar8.jpg)
 *Radar detector and dash cam installed with hard wire kit. Sasquatch optional.*
 
 Let me know in the comments if you have any questions, or need recommendations or links to parts or products! I&#8217;m happy to help out!

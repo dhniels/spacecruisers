@@ -52,7 +52,7 @@ You&#8217;ll want to start by following my post on [removing the dash](/how-to-
 
 Once the dash is off, insert the gauges into the pods. The gauge comes attached with some nuts and a plate that allow you to attach and tighten the gauge into the pod. My gauges also came with a small plastic &#8220;key&#8221; that can be used to adjust the brightness. I turned mine all the way down and then slightly up a hair from there. I don&#8217;t like mine being too bright so I preferred to have them almost as dim as possible.
 
-![Triple gauge pod assembly](/img/uploads/accessories-gauges.jpg)
+![Triple gauge pod assembly](/images/uploads/accessories-gauges.jpg)
 *This is not from the van, but illustrates how its going to look.*
 
 ### Optional: Tidy up the wiring
@@ -79,14 +79,14 @@ To connect the power and headlight wires, You can run them straight across, behi
 
 ### Ground wires
 
-![Ground wire location behind steering column](/img/uploads/accessories-gauges5.jpg)
+![Ground wire location behind steering column](/images/uploads/accessories-gauges5.jpg)
 *A nice ground location behind the dash to the right of the steering column.*
 
 For the ground wires, I ran those straight back to a nut behind the steering column area that I thought that would work as a ground point. Where you ground is flexible. Just strip back the ground wires, twist them together, and crimp a ring terminal to the bundle. There are many metal-to-metal bolts and nuts you can attach the ground connection to. Find one that works best for you.
 
 ### Sensor wires<figure id="attachment_media-55" style="width: 1192px" class="wp-caption alignnone">
 
-![Wiring path through cabin floor](/img/uploads/accessories-gauges4.jpg)
+![Wiring path through cabin floor](/images/uploads/accessories-gauges4.jpg)
 *I ran my wiring through this plug from the interior, around the radiator, and to the engine.*
 
 Next, we will run the wires to their sensors in the engine bay. Run the wires under the carpet through a plug right in the center foot area just in front of the hump. Looking from the engine bay its above the front of the radiator. Connect each wire to the corresponding sensor, according the the directions that came with your gauges. A wire hanger comes in handy here. Bend and straighten it out and form a little hook on the end that you can tie the wire around as you push/pull it through to where you can reach it. I removed the plastic cover around the steering box (very easy, attached with a couple of screws on each side) in order to have better access to pull back the carpet.
@@ -99,32 +99,32 @@ Once you have the wires running to the engine compartment, install the sensors a
 
 For the water temperature sensor, you can install this in a number of places. The best place is on one of the open spots on the engine block. This is where you&#8217;ll get the most accurate temp reading. I installed it in the coolant filler neck in place of the factory idle-up sensor, but had to use the 1/8&#8243; NPT to M8 adapter, which was hard to find, and my reading comes in about 15 degrees lower than the actual engine temp. So I&#8217;ll probably relocate mine to the block.
 
-![Water temp sensor location on radiator filler neck](/img/uploads/accessories-gauges2.jpg)
+![Water temp sensor location on radiator filler neck](/images/uploads/accessories-gauges2.jpg)
 *Water temp sensor plugged in at the fillter neck. If an open port is available on the block, it will giev a more accurate reading.*
 
 ### Oil Pressure Sensor
 
 For the oil pressure sensor, you&#8217;ll install the inline 1/8 BSPT to NPT tee, and then screw the gauge sensor into that. This allows you to retain the factory sensor for the oil light on the dash.
 
-![Oil pressure sensor plug tap location](/img/uploads/engine-oil-pressure.jpg)
+![Oil pressure sensor plug tap location](/images/uploads/engine-oil-pressure.jpg)
 *Oil pressure sensor with BSPT to NPT tee to retain the factory oil light functionality*
 
 ### Volt Meter
 
 For the volt gauge, its best to run this power wire direct to the battery in order to get the most accurate voltage readings.
 
-![Power wires running to the positive battery terminal](/img/uploads/electrical-battery-pos.jpg)
+![Power wires running to the positive battery terminal](/images/uploads/electrical-battery-pos.jpg)
 *Run the positive cables up to the positive battery terminal*
 
 ### Air/Fuel Ratio Meter
 
 For the air/fuel gauge, I used a T-tap connector and pinched the sensor wire from the gauge to the power wire on the O2 sensor. These T-taps can be finicky so make sure theres a tight fit to provide a reliable connection for the gauge. Once you start the van, it takes a few minutes of driving around for O2 sensor to heat up and start sending a signal the air/fuel gauge. Once this happens the light will start bouncing back and forth, meaning it is constantly adjusting the air/fuel ratio properly. If its stuck on rich or lean check your connections, and diagnose your TPS.
 
-![Power tap for O2 sensor gauge on O2 sensor wire](/img/uploads/accessories-gauges3.jpg)
+![Power tap for O2 sensor gauge on O2 sensor wire](/images/uploads/accessories-gauges3.jpg)
 *This works for now. I also used leftover speaker wire cause its all I had on hand!*
 
 ## Start the car and test
 
 You should now have everything connected. Verify your wiring and make sure everything is snapped in and wired in how it should be, then start the van. If everything was done properly, all your gauges should now be powered on and giving you accurate readings. If applicable, turn on the headlights to make sure the gauges turn color with the headlight power. Hopefully everything is working properly. If not, re-check all your wiring and connections and verify nothing is loose or disconnected. Check your grounds and make sure they are in a good, clean, metal to metal connection. Check the fuses are properly seated and not blown and the proper amp fuse is being used. Most errors are usually simple ones. Once everything is working you can feel the satisfaction of tackling this tedious job. Adding 4 gauges and running all their wiring is a lot of work! Congrats!
 
-![Photo of completed gauge installation](/img/uploads/accessories-gauges6.jpg)
+![Photo of completed gauge installation](/images/uploads/accessories-gauges6.jpg)

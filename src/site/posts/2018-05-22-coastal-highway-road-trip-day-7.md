@@ -7,12 +7,12 @@ author: Dave
 
 Day 7 was when we finally hit Redwoods National Park, one of my most anticipated stops of the trip. We left Eureka with a rare full nights sleep and spent most of the morning driving around admiring the famous redwood groves. We drove along the &#8220;Avenue of the Giants&#8221; scenic route then explored the park, stopping at several stops to hike around and explore.
 
-![The Redwoods of the forest moon of Endor](/img/uploads/photos-redwoods.jpg)
+![The Redwoods of the forest moon of Endor](/images/uploads/photos-redwoods.jpg)
 *Looks like something out of a Star Wars movie&#8230;*
 
 One of the sites I found intriguing was an old WWII radar station on the coastline that was built to look like a farm house, but inside housed radar equipment and two .50 caliber anti-aircraft guns.
 
-![An old WWII bunker disguised to look like a coastal farmhouse](/img/uploads/photos-bunker.jpg)
+![An old WWII bunker disguised to look like a coastal farmhouse](/images/uploads/photos-bunker.jpg)
 *I couldn&#8217;t quite figure out where the .50 cals would have been housed*
 
 After spending most of the day in Redwoods we continued onward, into Oregon! We finished the longest leg of our trip, being welcomed to The Beaver State with a giant sign proclaiming &#8220;WEED!&#8221; Welcome to Oregon indeed.
@@ -21,7 +21,7 @@ We stopped at a Fred Meyer for groceries and followed the 101 all the way up to 
 
 I&#8217;ve got to add&#8230;these Redwoods were the perfect setting for some killer Van photo-ops.
 
-![The Van at redwoods state and national parks](/img/uploads/photos-redwoods2.jpg)
+![The Van at redwoods state and national parks](/images/uploads/photos-redwoods2.jpg)
 *Ignore that I drove this whole trip on my mismatched spare*
 
 **_[NEXT: DAY 8](/coastal-highway-road-trip-day-8/)_**

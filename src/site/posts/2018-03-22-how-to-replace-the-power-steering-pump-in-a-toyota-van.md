@@ -40,7 +40,7 @@ The [factory service manual](/resources/) outlines the steps from removing the p
 
 # Step 1: Remove hoses
 
-![Power steering pump and supply/return lines](/img/uploads/engine-ps-pump.jpg)
+![Power steering pump and supply/return lines](/images/uploads/engine-ps-pump.jpg)
 *The hose on top is the supply hose, the 22mm banjo fitting is the return hose*
 
 First, disconnect the air valve hoses. Those are the two small hoses straight below the return hose fitting (marked with the 22mm bolt in the photo above)
@@ -49,28 +49,28 @@ You&#8217;ll want to have a container of some kind to catch any fluid that leaks
 
 Before moving on to the next step, you&#8217;ll want to replace the o-ring on the supply line nozzle. This is a very common leak point for the power steering system and has leaked fluid all over (and subsequently ruined) many van alternators. The replacement pump should have come with one. If not you might be able to find one that will fit locally or by using the one included in the [Gates 351830](https://www.rockauto.com/en/catalog/toyota,1987,van,2.2l+l4,1279784,steering,power+steering+pump+seal+kit,7407) power steering seal kit. Your new pump should have also come with new copper washers for the banjo fitting for the pressure line on the side of the pump so don&#8217;t forget to use those new gaskets upon reinstallation.
 
-![Power steering supply hose](/img/uploads/engine-ps-hose.jpg)
+![Power steering supply hose](/images/uploads/engine-ps-hose.jpg)
 
 # Step 2: Remove belt and pulley
 
 Next, we&#8217;ll need to remove the power steering belt and pulley. I did this by loosening the pulley set nut first. This is the 14mm nut on the small pulley in the top left of the photo below. Then release the tension on the belt by loosening the drive belt 12mm adjust bolt just above the pulley. Once its loose enough you can slide the drive belt off.
 
-![Pulley nut sizes](/img/uploads/engine-pulley.jpg)
+![Pulley nut sizes](/images/uploads/engine-pulley.jpg)
 
 Next, grab a 19mm socket or impact wrench and try to remove the bolt from the nut mounted to the power steering pump. After fighting this bolt with no success (turning it causes the engine to turn with it), I finally gave in and ran to the AutoZone to buy a chain clamp tool. This made it so easy. It works just like a vise grip. Simply loop the chain around the pulley, clamp it down, and hold it in place while you break the bolt loose. A breaker bar will make this even easier.<figure id="attachment_767" style="width: 642px" class="wp-caption alignnone">
 
-![Power steering supply hose](/img/uploads/engine-pulley2.jpg)
+![Power steering supply hose](/images/uploads/engine-pulley2.jpg)
 *Not the van, but illustrates how this tool works. A huge time saver.*
 
 # Step 3: Remove the power steering pump
 
 Now that everything is out of the way, simply remove the remaining 3 mounting bolts (two in front, one on back) with a 14mm wrench. Be aware of the small, half circled &#8220;key&#8221; lodged into the shaft of the pump. This is called a woodruff key. Your new/rebuilt replacement pump should have included a new one, but just in case they didn&#8217;t, you&#8217;ll need to reuse this. It&#8217;s very easy to lose and not even notice!
 
-![Power steering pump mount bracket](/img/uploads/engine-ps-pump2.jpg)
+![Power steering pump mount bracket](/images/uploads/engine-ps-pump2.jpg)
 
 **_Optional: inspect reservoir screen_**
 
-![Power steering reservoir](/img/uploads/engine-ps-res.jpg)
+![Power steering reservoir](/images/uploads/engine-ps-res.jpg)
 *Dirty reservoir on the outside, but clean on the inside where it counts*
 
 At this time, it might be good to inspect the power steering fluid reservoir as well. I used a flashlight to look in and see if the screen at the bottom of the resevoir is dirty. Fortunately mine was quite clean. The screen acts as a sort of pre-filter for the system. Sometimes the resevoir can get enough dirt and junk in it to clog the screen, not allowing enough fluid to get into the system when it&#8217;s needed. If this is the case, the resevoir is easily removed with two bolts and by disconnecting the two hoses. Once that&#8217;s done, flip the resevoir upside down and there are a few tabs holding the lid on. Bend those tabs back to remove the lid and access the screen. Clean the screen and resevoir and re-install.
@@ -79,7 +79,7 @@ At this time, it might be good to inspect the power steering fluid reservoir as 
 
 Remove the air control valve from the old pump, wipe it down, and screw it into the new pump.
 
-![New replacement power steering pump](/img/uploads/engine-ps-pump3.jpg)
+![New replacement power steering pump](/images/uploads/engine-ps-pump3.jpg)
 *Dont forget to install the new o-ring and gaskets!*
 
 After that&#8217;s done, you can remove the little plastic plugs in the new pump and install it by following these directions in reverse &#8211; bolt it to the mounting bolts, re-attach the pulley and belts, then re-connect the hoses.
@@ -97,7 +97,7 @@ Torque the bolts to the following specifications in the factory service manual:
 * Mounting bracket bolts: 29 ft-lb
 * Pressure tube nut: 33 ft-lb<figure id="attachment_769" style="width: 956px" class="wp-caption alignnone">
 
-![Factory service manual power steering pump diagram](/img/uploads/diagram-ps-pulley.png)
+![Factory service manual power steering pump diagram](/images/uploads/diagram-ps-pulley.png)
 *Factory torque specs for the power steering pump nuts/bolts*
 
 # Step 5: Flush/refill the power steering fluid
