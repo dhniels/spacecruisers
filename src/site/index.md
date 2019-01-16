@@ -15,7 +15,7 @@ layout: layouts/base.njk
 ## Latest Posts
 
 <ul class="listing">
-{%- for page in collections.post -%}
+{%- for page in collections.post | reverse -%}
 	<li>
 		<a href="{{ page.url }}">{{ page.data.title }}</a> -
 		<time datetime="{{ page.date }}">{{ page.date | dateDisplay }}</time>
