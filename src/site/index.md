@@ -8,8 +8,8 @@ layout: layouts/base.njk
 </script>
 
 <form action="/search/index.html" method="get">
-	<input type="text" id="search-box" name="query">
-	<input type="submit" value="search">
+	<input type="text" id="search-box" name="query" placeholder="Search for a post...">
+	<input type="hidden" value="submit">
 </form>
 
 ## Latest Posts

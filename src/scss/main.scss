@@ -178,7 +178,7 @@ main {
 	}
 }
 
-.form-field {
+form {
 	label {
 		display: block;
 	}
@@ -193,6 +193,11 @@ main {
 
 		&:focus {
 			outline-color: mix($text-color, $page-color, 80%);
+		}
+
+		&::placeholder {
+			color: mix($text-color, $page-color, 80%);
+			opacity: 1;
 		}
 	}
 
