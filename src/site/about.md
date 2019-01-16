@@ -1,17 +1,31 @@
 ---
-title: Get Yours
+title: About
 layout: layouts/base.njk
 ---
 
-To get your own instance of this [11ty](https://11ty.io) starter project cloned and deploying to [Netlify](https://www.netlify.com) very quickly, just click the button below and follow the instructions.
+Hi, I’m Dave. I'm a web developer by trade, so I started Space Cruisers as a way to provide high-quality, easy to follow technical write-ups for Toyota Van owners. There isn’t a whole lot of information, parts, or aftermarket accessories for these vans available on the web. [ToyotaVanTech](https://toyotavantech.com) forum is the main resource, and while it is chock full of valuable information, it can be difficult to find what you need sometimes.
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/philhawksworth/twavatar)
+I hope I can provide a valuable resource to TV owners, whether they are skilled driveway mechanics, or have never changed their own oil. I started learning to maintain and repair my vehicles starting with my 93 Toyota Pickup and my 87 Van, and discovered a new passion in the process.
 
 
-## Wait, what happens when I click that button?
+## Message me
 
-Good question. Here's what it will do...
-
-1. Netlify will clone the git repository of this project into your Github account. You will be asked for the required permissions to add the repo for you.
-2. They'll create a new site for you in Netlify, and configure it to use your shiny new repo. Right away you'll be able to deploy changes simply by pushing changes to your repo.
-3. That's it really.
+<form name="contact" netlify>
+	<div class="form-field">
+		<label for="name">Name</label>
+		<input type="text" name="name" />
+	</div>
+	<div class="form-field">
+		<label for="email">Email</label>
+		<input type="email" name="email" />
+	</div>
+	<div class="form-field">
+		<label for="van">Your Van</label>
+		<input type="text" name="van" />
+	</div>
+	<div class="form-field">
+		<label for="message">Message</label>
+		<textarea name="Message"></textarea>
+	</div>
+	<button type="submit">Send</button>
+</form>

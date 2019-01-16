@@ -1,34 +1,24 @@
 ---
-title: EleventyOne
-subtitle: A project scaffold for getting building with Eleventy quickly.
+title: Space Cruisers
+subtitle: A website for Toyota Van owners
 layout: layouts/base.njk
 ---
+<script>
 
+</script>
 
-## This site is a starting point
+<form action="/search/index.html" method="get">
+	<input type="text" id="search-box" name="query">
+	<input type="submit" value="search">
+</form>
 
-From this point we should already have:
-
-- [Eleventy](https://11ty.io) with a skeleton site
-- A date format filter for Nunjucks
-- Sass pipeline
-- JS pipeline
-- JS [search index](/search.json) generator
-- Serverless (FaaS) development pipeline with Netlify Functions for Lambda
-
-
-## Post pages
-
-The pages found in in the posts
+## Latest Posts
 
 <ul class="listing">
 {%- for page in collections.post -%}
-  <li>
-    <a href="{{ page.url }}">{{ page.data.title }}</a> -
-    <time datetime="{{ page.date }}">{{ page.date | dateDisplay }}</time>
-  </li>
+	<li>
+		<a href="{{ page.url }}">{{ page.data.title }}</a> -
+		<time datetime="{{ page.date }}">{{ page.date | dateDisplay }}</time>
+	</li>
 {%- endfor -%}
 </ul>
-
-
-

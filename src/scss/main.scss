@@ -161,8 +161,62 @@ pre {
   }
 }
 
+.date {
+	color: mix($text-color,$page-color, 60%);
+	font-size: .8em;
+	font-style: italic;
+	text-transform: uppercase;
+}
 
+main {
+	img {
+		width: 100%;
 
+		+ em {
+			font-size: 0.8em;
+		}
+	}
+}
+
+.form-field {
+	label {
+		display: block;
+	}
+
+	input, textarea {
+		padding: 5px 10px;
+		margin-bottom: 12px;
+		min-width: 200px;
+		background: transparent;
+		border: 2px solid mix($text-color, $page-color, 80%);
+		color: mix($text-color, $page-color, 80%);
+
+		&:focus {
+			outline-color: mix($text-color, $page-color, 80%);
+		}
+	}
+
+	textarea {
+		width: 80%;
+		height: 200px;
+	}
+
+	+ button {
+		padding: 10px 30px;
+		background: transparent;
+		border-radius: 20px;
+		border: 2px solid mix($text-color, $page-color, 80%);
+		color: mix($text-color, $page-color, 80%);
+		text-transform: uppercase;
+		font-size: 14px;
+		cursor: pointer;
+
+		&:hover {
+			background: mix($text-color, $page-color, 80%);
+			color: $page-color;
+		}
+	}
+}
 
 
 footer {
