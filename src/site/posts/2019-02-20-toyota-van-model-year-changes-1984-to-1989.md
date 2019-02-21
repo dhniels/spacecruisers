@@ -131,7 +131,7 @@ Changes for the LE trim:
 	- EFI, injector/harness changes
 
 ## 1989
-In 1989, the base DLX trim level was now available in 4WD because the 5-speed manual could no longer be equipped on 4WD models.
+In 1989, the base DLX trim level was now available in 4WD, because Toyota no longer offered the 5-speed manual with 4WD models.
 
 	- DLX trim available with 4WD
 	- 5-speed manual discontinued on 4WD models
