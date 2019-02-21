@@ -1,6 +1,6 @@
 ---
 title: Toyota Van Model Year Changes, 1984 to 1989
-date: 2019-02-29
+date: 2019-02-20
 author: Dave
 ---
 
