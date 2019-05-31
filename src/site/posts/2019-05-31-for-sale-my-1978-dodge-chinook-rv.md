@@ -1,5 +1,5 @@
 ---
-title: FOR SALE: My 1978 Dodge Chinook RV
+title: FOR SALE My 1978 Dodge Chinook RV
 date: 2019-05-31
 author: Dave
 ---

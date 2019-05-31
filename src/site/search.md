@@ -2,11 +2,13 @@
 title: Search
 layout: layouts/base.njk
 ---
+<style> #search-results li {list-style-type: none; border-bottom: 1px solid rgba(255,255,255,.3);} </style>
 
 <form action="/search/index.html" method="get">
-	<label for="search-box">Search</label>
+	<!-- <label for="search-box">Search</label> -->
 	<input type="text" id="search-box" name="query">
-	<input type="submit" value="search">
+	<!-- <input type="submit" value="search" style="min-width:auto;"> -->
+	<input type="hidden" value="submit">
 </form>
 
 <ul id="search-results"></ul>
