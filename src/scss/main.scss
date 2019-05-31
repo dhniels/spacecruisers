@@ -8,12 +8,12 @@
 
 ::-moz-selection {
   background-color: $accent-color;
-  color: $page-color;
+  color: mix($text-color, $page-color, 80%);
 }
 
 ::selection {
   background-color: $accent-color;
-  color: $page-color;
+  color: mix($text-color, $page-color, 80%);
 }
 
 html {
