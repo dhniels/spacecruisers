@@ -61,9 +61,6 @@ Now keep in mind, it is a 40 year old truly vintage RV/vehicle, and has small is
 
 ### The bad:
 - I’ve noticed when its parked on an incline it does leak a little power steering fluid. It appears to be leaking from the pump itself so might need a new pump sometime in the future. I didn’t bother with it because it was very minor.
-- The Onan generator has a leaky fuel pump gasket so I haven’t started it in a while. I have just received the part and hope to install it before sale, but be aware that the generator is currently not running.
-- Driver’s door can be a little difficult to get open at times. I think the mechanism probably just needs to be tightened a little. The button on the door handle just doesn’t seem to engage fully so it takes a couple tries sometimes to get it to open. I’ve never NOT been able to get it open.
-- Might need a brake service (flush and replace fluid) I haven’t had a chance to check though, might just be low on fluid. The brakes were just a little spongy when I drove it last.
 
 ### The potential:
 - Holly Sniper EFI conversion (~$900 kit) bolts right in place of the carburetor and adds a simple wiring harness and strap in place O2 sensor. Very simple installation that adds all the benefits of electronic fuel injection. This was on my shortlist of upgrades - more power, more MPGs, and more reliable start-ups? This would add a lot of driving comfort as well on the highway. A no brainer if you plan to drive it cross country. I never did it cause we were more local and stationary than I expected.
