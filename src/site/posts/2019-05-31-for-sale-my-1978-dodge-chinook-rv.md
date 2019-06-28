@@ -4,11 +4,11 @@ date: 2019-05-31
 author: Dave
 ---
 
-## 1978 Chinook Concourse - $14,900 OBO
+## 1978 Chinook Concourse - $13,900 OBO
 
 **For Inquires, please [send me a message](/about)**
 
-Selling this rare gem. I haven’t seen another one of this condition and configuration, so those who know what they’re looking for should be pleased. The wife and I are refocusing our longterm goals. With a growing family, we are now working on our next step, purchasing a long-term home for our family. I would love to keep this a part of the family but our financial goals require us to liquidate as much as we can and spend the next couple years in savings mode.
+COLLECTORS ITEM! Perfect for someone who wants a unique and charming vintage Chinook RV. Selling this rare gem. I haven’t seen another one of this condition and configuration, so those who know what they’re looking for should be pleased. The wife and I are refocusing our longterm goals. With a growing family, we are now working on our next step, purchasing a long-term home for our family. I would love to keep this a part of the family but our financial goals require us to liquidate as much as we can and spend the next couple years in savings mode.
 
 We lived out of this for a summer full-time and it was a great #vanlife rig. With a few small modifications, this would be a perfect setup as an off-grid, full-time RV living setup. Originally, we were looking for the more common Toyota Chinook, built on the old Toyota pickups. However, my wife stumbled across this rig one day and I was ecstatic! I didn't know that these existed, and the extra room and size over the Toyota, as well as the stronger chassis and tow-friendly setup made this a no-brainer. Plus it just looks so damn cool.
 
@@ -56,11 +56,11 @@ Now keep in mind, it is a 40 year old truly vintage RV/vehicle, and has small is
 - No live water connection. It’s plumbed and 99% ready to go for city water, but the last 6 inches of piping and a tee need to be added in. Very easy job, I just never did it because I didn’t need it. I always just filled and used the water tank.
 - The couches could use a re-upholstering. It was something I wanted to do but never felt the urgency to do it. It’s not bad, just a little worn.
 - Someone previously sprayed some kind of thin textured lining all over the roof (don’t know why) and its peeling off. I started removing it but it was kind of a pain and the wind and weather was naturally taking it off for me. So I left Mother Nature to finish the job for me haha.
-- Original ladder was missing to get roof access. I just climbed up via the spare tire but I’m also young and nimble. It would be easy to add a ladder, but honestly I thought of just getting one of those collapsible ladders on amazon rather than remounting one (kinda like the cleaner look without it)
+- I just spent $100 for a full inspection from my mechanic and an additional $2k repairing everything mechanically that needed attention to bring this up to an "A" as my mechanic said. This included new power steering pump, all new belts, AC recharge, new polyurethane bushings, a whole new rear end (axle seals, brakes, brake cylinder, etc)
 - Missing the divider curtains between the front and rear cabin. I never felt the need for them. When I needed privacy I put on the front window covering (wraps around and covers the front windows)
 
 ### The bad:
-- I’ve noticed when its parked on an incline it does leak a little power steering fluid. It appears to be leaking from the pump itself so might need a new pump sometime in the future. I didn’t bother with it because it was very minor.
+- Needs new tires. The ones on here work fine and appear to be in good shape but they’re older and past their "expiration date" I chose not to replace them because if someone local buys this they won’t need to replace them if they’re just going up the canyon on the weekends occasionally. And it’s if someone is buying from out of state who plans to drive it a lot or live in it full time, it would be better for me to knock the price off and have them do it so they can be under the warranty since tire shops don’t transfer warranties to new buyers. I called around and a lot of tire makers are doing rebates so you can get a full set in the neighborhood of $1k so I knocked that off my original listing price to cover it.
 
 ### The potential:
 - Holly Sniper EFI conversion (~$900 kit) bolts right in place of the carburetor and adds a simple wiring harness and strap in place O2 sensor. Very simple installation that adds all the benefits of electronic fuel injection. This was on my shortlist of upgrades - more power, more MPGs, and more reliable start-ups? This would add a lot of driving comfort as well on the highway. A no brainer if you plan to drive it cross country. I never did it cause we were more local and stationary than I expected.
