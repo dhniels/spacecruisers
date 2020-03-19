@@ -4,7 +4,7 @@ date: 2019-05-31
 author: Dave
 ---
 
-## 1978 Chinook Concourse - $13,900 OBO
+## 1978 Chinook Concourse - NOW SOLD!
 
 **For Inquires, please [send me a message](/about)**
 
